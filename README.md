@@ -4,7 +4,7 @@ DOWNLOAD ZIP FILE BEFORE COPYING. This is a Sammi Button in JSON format for stre
 
 HOW TO INSTAL:
  
-Download as zip file. Unzip, open, then copy the text that is between the brackets {} to your clipboard. Open "SAMMI CORE.exe", then open a Deck. Once there, right click on a square and select "Import from JSON". If you get the messege "this string is not a properly formated JSON string", make sure the text you copied from the unzipped file starts and ends with {}. (JSON text coppied from the github webpage will not format correctly.) 
+Download as zip file. Unzip, open, then copy only the text that is between the brackets {} to your clipboard. Open "SAMMI CORE.exe", then open a Deck. Once there, right click on a square and select "Import from JSON". If you get the messege "this string is not a properly formated JSON string", make sure the text you copied from the unzipped file starts and ends with {}. (JSON text coppied from the github webpage will not format correctly.) 
 
 
 HOW TO SET-UP: 
